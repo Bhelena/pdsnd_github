@@ -71,7 +71,7 @@ def load_data(city, month, day):
         df1= pd.read_csv("new_york_city.csv")
         df2= pd.read_csv("chicago.csv")
         df3= pd.read_csv("washington.csv")
-        df= pd.concat([df1,df2,df3])
+        df= pd.concat([df1,df2,df3],sort=True)
     else:
         df = pd.read_csv(f"{city.lower()}.csv")
 
