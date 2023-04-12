@@ -9,7 +9,7 @@ Explore bikesharing database.
 This project allows you to gain insights in the bikesharing system of three cities: New York, Washington and Chicgao.
 
 ### Files used
-bikeshare.py and csv containing data about the three cities.
+bikeshare.py and csv containing data about the three cities.Those files will be not uploaded.
 
 ### Credits
 stackoverflow is always a good source of inspiration. 
