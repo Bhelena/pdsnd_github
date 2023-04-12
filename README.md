@@ -12,4 +12,4 @@ This project allows you to gain insights in the bikesharing system of three citi
 bikeshare.py and csv containing data about the three cities.Those files will be not uploaded.
 
 ### Credits
-stackoverflow is always a good source of inspiration. 
+stackoverflow is always a good source of inspiration. Also python documentation. 
